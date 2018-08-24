@@ -1,0 +1,8 @@
+﻿## Interface: 80000
+## Title: RBS [|c10FF75B3Core|r]
+## Notes: Raeli's Bag Skinner - Skins default bags.
+## Author: Raeli
+## Version: 1.0
+
+embeds.xml
+Core.lua
