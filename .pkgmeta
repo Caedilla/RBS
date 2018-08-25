@@ -1,0 +1,17 @@
+package-as: RBS
+
+
+externals:
+ Libs/LibStub:
+  url: svn://svn.wowace.com/wow/libstub/mainline/trunk
+  tag: latest
+ Libs/CallbackHandler-1.0:
+  url: svn://svn.wowace.com/wow/callbackhandler/mainline/trunk/CallbackHandler-1.0
+  tag: latest
+ Libs/AceAddon-3.0:
+  url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceAddon-3.0
+ Libs/LibSharedMedia-3.0:
+  url: https://repos.wowace.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
+
+ignore:
+ - .pkgmeta
