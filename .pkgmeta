@@ -28,3 +28,4 @@ externals:
 
 ignore:
  - .pkgmeta
+ - README.md
