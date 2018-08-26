@@ -2,7 +2,11 @@
 ## Title: RBS [|c10FF75B3Core|r]
 ## Notes: Raeli's Bag Skinner - Skins default bags.
 ## Author: Raeli
-## Version: 1.0
+## Version: @project-version@
+## SavedVariables: RBSDB
+## X-SavedVariables: RBSDB
+## OptionalDeps: Ace3
 
 embeds.xml
+Localisation\enUS.lua
 Core.lua
