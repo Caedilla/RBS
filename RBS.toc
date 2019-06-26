@@ -1,4 +1,4 @@
-﻿## Interface: 80100
+﻿## Interface: 80200
 ## Title: RBS [|c10FF75B3Core|r]
 ## Notes: Raeli's Bag Skinner - Skins default bags.
 ## Author: Raeli
